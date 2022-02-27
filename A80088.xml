@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable the Commons of England, in Parliament assembled. A proposal for preventing the farther decay of our harbours: / humbly offer'd, by Robert Colepepyr, Gent.</title>
+            <author>Colepepyr, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80088</idno>
+            <idno type="STC">Wing C5061</idno>
+            <idno type="STC">ESTC R224645</idno>
+            <idno type="EEBO-CITATION">45097638</idno>
+            <idno type="OCLC">ocm 45097638</idno>
+            <idno type="VID">171242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable the Commons of England, in Parliament assembled. A proposal for preventing the farther decay of our harbours: / humbly offer'd, by Robert Colepepyr, Gent.</title>
+                  <author>Colepepyr, Robert.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  England --  Early works to 1800.</term>
+               <term>Harbors --  Maintenance and repair --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171242:1"/>
+            <head>To the Honourable the COMMONS of <hi>ENGLAND,</hi> in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled.</head>
+            <head type="sub">
+               <hi>A Propoſal for Preventing the farther decay of our Harbours:</hi> Humbly Offer'd, by <hi>Robert Colepepyr,</hi> Gent.</head>
+            <p>SINCE the Proſperity and Safety of this Iſland ſeems to be owing (next to the Pro<g ref="char:EOLhyphen"/>vidence of God) to the greatneſs of our Trade and Shipping. And ſince ſome of our Harbours are grown much worſe, therefore it may ſeem fit to examine the cauſe thereof, the better to preſerve them from further decay, and alſo to keep ſuch Harbours good as yet remain ſo; and ſince the ſame decay proceeds from Sand that doth ſettle and remain on our Bars and in our Bays, therefore I ſhall endeavour to ſhew theſe two things. Firſt, from what Cauſe thoſe Sands do ſettle and remain. And Secondly, propoſe a way to prevent further increaſe of ſuch Sands: Yet without Charge. And for proof of each of theſe General Heads, I will offer only ſuch Obſervations and Reaſons as are confirm'd by Experience.</p>
+            <p>
+               <hi>Firſt,</hi> I apprehend that thoſe Sands are brought from without by Storms, and from within by Land<g ref="char:EOLhyphen"/>floods, and remain there for want of a large Baſon or Indraught; for ſuch increaſe of water would ſtrengthen the influx and efflux, and not ſuffer any ſuch Sand to remain.</p>
+            <p>
+               <pb facs="tcp:171242:2"/>And firſt touching the ſettlement of Sea Sand. The Land that makes the mouth of the Bay or Chan<g ref="char:EOLhyphen"/>nel, breaks the force of the water, and gives the Sand a more quiet place to ſettle in, than it had in more open parts of the Sea, and thoſe parts are more quiet when the Ebbs iſſue out againſt Storms, than when Storms find the Tides flowing up the Channel; and in ſuch Ebbs all the Sands are fenced out on the Barr, and in the Bay, and part of them cannot come into the Channel as they do in Tide-times; and if all influx and efflux were conſtantly ſo ſtopped, then a Barr in any Channels mouth would ſoon be raiſed, and grow level with the Sand and Beach lying on the Shoars thereof. Therefore your Navigation re<g ref="char:EOLhyphen"/>quires influx and efflux that are great as well as conſtant.</p>
+            <p>I confeſs the influx and efflux of Tides and Ebbs do keep ſome Sand from ſettling, and alſo remove other Sand after the ſame hath ſettled. But yet ſince the Sea-Charts ſhew more Sand-banks in Bays and Channels mouths than are elſewhere found. There<g ref="char:EOLhyphen"/>fore the Land that makes them Bays, ſeems to be the cauſe of the Sea Sands ſettling therein.</p>
+            <p>
+               <hi>Secondly,</hi> I believe Sands may ſettle and remain on Barrs, from the great diſproportion in breadth be<g ref="char:EOLhyphen"/>tween that part of a Channel where a Barr lies, and the upper adjoyning part of the ſame Channel; for the Ebbs have ſtrength in the narrow part, and do thence remove ſuch Sand as Land-waters or Tides and Storms cauſe there to ſettle, but cannot carry it all out beyond the Barr part of the Channel. Firſt becauſe there an over breadth doth weaken the Ebbs. Secondly, becauſe the Sea is moſt apt to leave Sand on the Barr, and this Barr-ſand obſtructs the Chan<g ref="char:EOLhyphen"/>nel-ſand, and thereby augments the Barr, which will thus grow higher, till want of depth in the out fall brings the water to a rapidity (notwithſtanding over<g ref="char:EOLhyphen"/>breadth) and gives it ſtrength to remove all that ſhall afterwards ſettle on the Barr.</p>
+            <p>And touching the weakneſs of influx and efflux to remove Sand, I apprehend the ſame may come from two Cauſes within the Barr. Firſt, from checking the Land-waters in their paſſage out; and Secondly, from leſſening of that Indraught or Baſon the Sea hath within the Barr.</p>
+            <p>Firſt, to ſhew this check given to Land-waters; I ſay the ſame is too often made by a Dam croſs a Channel, with Sluces therein; yet this ſtop is in<g ref="char:EOLhyphen"/>tended only to keep Salt-water out of Land, and give paſſage to the freſh water. But theſe ſtops always do damage to Barrs and Bays. For in whatſoever part of the Channel this ſtop lies, the ſame detains Land-floods, and makes them paſs out with leſs ra<g ref="char:EOLhyphen"/>pidity, and thereby abates their ſervice to the Barr and Bay. For if you force water to paſs thro' one foot ſquare, that ought to have two, then you muſt give that water time to ballance that reſtraint.</p>
+            <p>And, Secondly, the Seas Indraught may be leſ<g ref="char:EOLhyphen"/>ſened by theſe two following ways. Firſt, by the ſaid Sluce-ſtop; for when the Tides reach this ſtop
+<pb n="2" facs="tcp:171242:3"/>whilſt they are flowing in over the Barr, then the ſtop doth this farther damage; for then it leſſens the Indraught, and abates water <hi>(viz.)</hi> ſo much as would flow in beyond that obſtructing part of the Channel, before the Tides ebb on the Barr, and this is the better part of the indravght, becauſe the water that flows fartheſt in, returns lateſt over the Barr, and then the ebbs have the greateſt rapidity.</p>
+            <p>Secondly, theſe Indraughts are ſometimes made leſs by Imbankments of Green-ſalts from the ſides of a Channel. That is, when thoſe Salts were drown<g ref="char:EOLhyphen"/>ed by high Spring-Tides, before thoſe Tides did ebb on the Barr. But when the Salt you would im<g ref="char:EOLhyphen"/>bank lies dry, when thoſe Tides are ebbing on the Barr, then you may imbank that Salt without pre<g ref="char:EOLhyphen"/>judice, for the Sea will not ſend in one Tunn of water the leſs for ſuch Imbankments; and theſe Works in this place, and alſo higher up, will con<g ref="char:EOLhyphen"/>tract the water, and deepen the Channel; and the <hi>Thames</hi> with ſome other Channels have receiv'd depth from theſe Imbankments; therefore I think this Rule for Imbankments will hold good in any Channel, however the Tides flow as to diſtance from the Sea. And if Green-ſalts are found in a Bay, the ſame may be Imbanked with benefit, both to Navigation, and the Imbanker.</p>
+            <p>'Tis generally concluded, that all Green-ſalts on the ſides of Navigable Rivers, come from over<g ref="char:EOLhyphen"/>breadth <hi>(viz.)</hi> in the parts of the River where the ſame are found; and adjoyning Land-Pearagers be<g ref="char:EOLhyphen"/>lieve that all ſuch Salts may be imbanked, and that Navigation will receive no detriment thereby.</p>
+            <p>Touching the lower and Sea Indraught, part of a Channel that hath Green-ſalts. Theſe parts I con<g ref="char:EOLhyphen"/>feſs are too wide for their common Freſhes and low Tides, as well as higher parts of the Channel, and by that means they lie dry ſometimes, and bear Greens, and Imbankments here will deepen a Channel as well as thoſe made higher up; but the Channels in thoſe lower parts are not too wide for Land-Floods, when the ſame meet pretty high Tides; nor are they ever too wide for the Spring-Tides, and to receive water from the Sea to ſcower Barrs and Bays.</p>
+            <p>
+               <pb facs="tcp:171242:4"/>Tho' Imbankments out of theſe Sea Indraughts have been thought beneficial to Navigation, as well by the Government, who have Entituled, Permit<g ref="char:EOLhyphen"/>ted or Encouraged Men therein, as by thoſe Men of Skill in ſuch Works that adviſed the ſame. Yet I fear moſt of your Barrs and Bays have been rendred more unſafe by thoſe Works. And if Patentees, and Land-Peeragers remain permitted to leſſen your Indraughts by ſuch Imbankments, whilſt yet your Bays and Channels mouths retain their old breadth, and ſo require the ſame influx and efflux to keep them to their depth, then I apprehend your Barrs and Bays may have an increaſe of Sand, and that in proportion to the abatement of water made by ſuch Imbankments.</p>
+            <p>And I preſume the damage theſe Imbankments will do to Barrs and Bays, is far more conſiderable than
+<pb n="2" facs="tcp:171242:3"/>the benefit of deepning your indraught Channels, be<g ref="char:EOLhyphen"/>cauſe good entrances into Harbours, tend moſt to the encreaſe and preſervation of Seamen and Merchandize. And when a Ship finds ſufficient water at a good di<g ref="char:EOLhyphen"/>ſtance from the Sea, then ſhe can hardly want till ſhe comes to the Barr or Bay. But if ſuch want of Water be found, then ſmaller Craft may Navigate in the Channels.</p>
+            <p>I believe the Salt Indraughts do carry more Sand from Barrs and Bays than Land-waters, for theſe two Reaſons. Firſt, becauſe the Land-waters bear but a ſmall proportion with the Salt. And ſecondly, becauſe the Tides of flood run ſtrongeſt, and the Sands that lie firm and cloſe during the Ebbs, are yet by the flowing waters made very looſe and hol<g ref="char:EOLhyphen"/>low; wherefore I think flowing Waters do moſt ſtir the Sand on the Barrs and in the Bays, and leaves it in motion to paſs out to Sea in the Ebbs. And thus I hope I have ſhewn that the imbankments of thoſe Indraughts do abate the influx and efflux of your Water, and encreaſe your Sands. Yet to make this point more plain, I pray leave to cite the four following Preſidents.</p>
+            <p>
+               <hi>Firſt,</hi> That many years ſince, a River called the <hi>Rother</hi> did paſs thro' <hi>Rumney-Marſh</hi> in <hi>Kent,</hi> and near its iſſuing into the Sea, anciently made a Ha<g ref="char:EOLhyphen"/>ven and Bay; but the Sea laid more Sand in the mouth of this Haven, than its indraught of ſalt Wa<g ref="char:EOLhyphen"/>ter and freſh could remove; and thereby ſhutting out the ſalt Water, and keeping the freſh in, it cau<g ref="char:EOLhyphen"/>ſed the latter to ſwell back in its own Channel, about ſix Mile, and there the freſh Water broke over its bounds, and went no more through <hi>Rumney-Marſh.</hi>
+            </p>
+            <p>There are many thouſand Acres of imbanked Land under high-water mark in that Marſh, and lying on the ſides of that Channel and Haven, and whilſt un<g ref="char:EOLhyphen"/>imbanked, the flowing water muſt drown the ſame before it ebbed in the Haven. Therefore before Imbankments, thoſe Lands were a large Indraught or Baſon to that Haven and Bay. And if thoſe Lands were imbanked from the <hi>Rother</hi>'s Channel and Haven before they were ſo choaked up, then we have good reaſon to believe thoſe Imbankments choaked up the ſame.</p>
+            <p>
+               <pb facs="tcp:171242:4"/>And that thoſe Imbankments did precede that Sand-ſtop, ſeems clear from the two following Cauſes. Firſt, For that in an ancient Mapp of <hi>Rumny-Marſh</hi> the Haven is plotted, and in this plott are theſe words (<hi>The old decayed Haven of</hi> Rumney <hi>now ſwerved up, and the walls broken and decayed</hi>) and no Man would Imbank Land from a Haven, after 'twas left both by ſalt and freſh water. I can di<g ref="char:EOLhyphen"/>rect to the Original Mapp, or ſhew a Copy thereof.</p>
+            <p>But leaſt the Authority of that Mapp ſhould be queſtioned. I will ſecondly offer an argument from the natural tendency of Water <hi>(viz.)</hi> That the
+<pb n="3" facs="tcp:171242:5"/>lower end of that Channel was more preſſed with freſh water after that ſtop, than the parts ſix Miles higher could be; and all bounds of that Channel were equally ſtrong, if the Lands were not imbank<g ref="char:EOLhyphen"/>ed. Therefore if no Banks had been in the way, ſave that in the Havens month, then the Freſhes had ſwelled out at the lower end of their Channel, and there made a new Out-fall by the old one. Yet ſo it did not happen; but the Sea-barr and Chan<g ref="char:EOLhyphen"/>nels-banks ſeem to force this water back, 'till it found a low or weak part of the Bank.</p>
+            <p>I have an old Original Mapp ſhewing the upper end of the <hi>Rother,</hi> and down to its falling into <hi>Rumny-Marſh.</hi> And in the ſame, Information is given, where nine Heads of ſeveral Rivers riſe, and that they all ſerved Mills, or Iron-Works, and after fall into the <hi>Rother.</hi> Hereby this Honourable Houſe may ſee, that much Land-water muſt paſs through that Channel into the Sea, from whence with the vaſt Indraught this Haven had, 'tis probable it might be a Royal Port. Yet theſe Rivers make but a very ſmall freſh water in Summer, and ſuch as might ea<g ref="char:EOLhyphen"/>ſily be overcome, and ſtopped in by Sand in Sum<g ref="char:EOLhyphen"/>mer Storms; for the Haven muſt be very much too wide for its Indraught, after <hi>Rumny-Marſh</hi> was Im<g ref="char:EOLhyphen"/>banked. Thus much on this firſt Preſident, which I hope is well proved.</p>
+            <p>Secondly, After the deſtruction of <hi>Rumny</hi> Ha<g ref="char:EOLhyphen"/>ven the River <hi>Rother</hi> did paſs through <hi>Rye</hi> Harbour in <hi>Suſſex,</hi> and in 1623 the then Commiſſioners of Sewers for the <hi>Rother</hi> did make a Dam croſs that River with Sluces therein to let out the freſh Water, and keep out the Salt; and this ſtop lying but ſix or ſeven Miles from the Sea, therefore the ſame did damnifie the Harbour and Bay of <hi>Rye,</hi> as well by abatement of Efflux of Land Waters, as by leſſening the Seas indraught, and theſe Sluces alſo cauſed ſo much Sullage to reſt without them, that ſeveral Thouſand Acres of Land within were thereby drowned with freſh Water.</p>
+            <p>
+               <pb facs="tcp:171242:6"/>In 1635. 2000 Acres of Marſh (lying below that ſtop) were lay'd open to the Sea, and uſed as an Indraught or Baſon to ſcower the Land drain; and this Indraught ſo far mended the Influx and Efflux, That ſoon after a Ship of 700 Tuns did ride at low water in <hi>Rye</hi> Harbour: But ſome Years ſince this In<g ref="char:EOLhyphen"/>draught and ſome green Salts began to be imbanked, and as the Seas Indraught was leſſening by many im<g ref="char:EOLhyphen"/>bankments, the Harbour and Bay did decay gradually and viſibly, as thoſe imbankments were brought to Per<g ref="char:EOLhyphen"/>fection; inſomuch that in the place where the Ship did ride at low Water, there the Sands now ly dry 'till half Flood; yet 'tis well known <hi>Rye</hi> was the beſt Tide-Harbour between the <hi>Downs</hi> and <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> into which good Ships could come from half Flood to half Ebb, but now that Coaſt affords no ſhelter to Ships of Burthen: To prove the Stop made in 1623 and the Indraught in 1635 with their Conſequences above <hi>Rye</hi> Harbour, for Vouchers I can direct to Records of Sewers, and for the Ships
+<pb n="3" facs="tcp:171242:5"/>riding in <hi>Rye</hi> Harbour, with the after abatement of Water there, I have the copy of a Certificate under the Seal of that Corporation, and can inform where the Original may be ſeen.</p>
+            <p>I believe the Harbour and Bay of <hi>Rye</hi> have loſt three parts in four of their Indraught in manner as before, therefore the want of Influx and Efflux may well cauſe Sand to ſtay there, and make them decay more viſibly and faſter than moſt other Harbours and Bays; and although in ſome Bays the miſchief done by Imbankments may not yet be perceived, yet the ſame leiſeurly abatements of Water there may have an ill Conſequence on this Kingdom, by obliging it to Ships that draw leſs Water, while neighbouring Nations build larger Ships of War: And ſo much on this ſecond Preſident.</p>
+            <p>
+               <hi>Thirdly,</hi> Leaſt the Service my ſelf and other Men allow to Imbankments in the parts wherever they are made ſhould be ill applyed, and brought as an Argument to clear Imbankments from all Damage in general, and thereby charge Storms as well with the cauſe of the Sands remaining, as with its firſt ſettlement, I will therefore pray this Honourable Houſe to remember, that a few Years ſince the <hi>Thames</hi> made a narrow Breach in the Bank of <hi>Weſt<g ref="char:EOLhyphen"/>thorock</hi> Marſh in <hi>Eſſex,</hi> and there drowned about 900 Acres of Land, and the Water by means of that narrow Paſſage in and out, was put into a great Rapidity, and thereby deepened its Entrance ſo much, that the Water was there near twenty foot deep at low Ebb, and the ſame Strength and Ra<g ref="char:EOLhyphen"/>dity of Water ſo far continued after its Entrance, that the ſame cut a Channel near a Mile long in that Marſh, and this Channel bore a Depth in pro<g ref="char:EOLhyphen"/>portion to the mouth of it.</p>
+            <p>This Channel was preſerved deep by the Influx and Efflux of that 900 Acres of ſhallow Water, and the ſame remained an indraught, and ſcowred that Channel ſome Years; but 700 Acres of thoſe Lands have been imbanked from the ſides of that Channel, yet the Channel's Mouth retains its firſt Breadth; therefore the Influx and Efflux are abated in propor<g ref="char:EOLhyphen"/>tion to thoſe Imbankments, and thereby much Sul<g ref="char:EOLhyphen"/>lage doth now remain in this Channel by leſſening the Influx and Efflux.</p>
+            <p>
+               <pb facs="tcp:171242:6"/>Since the laſt mentioned Channel or Water-fret is a good parallel with <hi>Rye</hi> Harbour, as well in hold<g ref="char:EOLhyphen"/>ing Depth ſufficient for Shipping whilſt their In<g ref="char:EOLhyphen"/>draughts remained, as by increaſe of Sullage and be<g ref="char:EOLhyphen"/>coming ſhallow as their Lands were imbanked; and ſince <hi>Rumny</hi> Haven was not deſtroy'd 'till the Seas Indraught was taken from it, and ſince <hi>Weſtthorock</hi> Channel could have no Sullage driven into it by Storms, the ſame muſt be filled up by Imbankments, therefore all theſe decreaſes in Depth ſeem to come from Imbankments; and indeed we have little ground to think Storms without Imbankments will injure any of our Navigations, unleſs we can believe ſuch Storms happen'd ſince our Imbankments as ne<g ref="char:EOLhyphen"/>ver
+<pb n="4" facs="tcp:171242:7"/>came before: And this Honourable Houſe may conclude that <hi>Kinſail</hi> would ſoon be render'd like <hi>Rumny,</hi> were not the Sand ſettles there remov'd by Influx and Efflux.</p>
+            <p>The before Imbankments happening within my knowledge, or being ſo capable of proof as afore, I therefore contented my ſelf with certifying the ſame, and have not enquired after other Damages of this kind, ſave only the decay of <hi>Lin</hi> Harbour, and I conclude this Honourable Houſe may be aſſured that <hi>Denver</hi> Sluce lying in the River <hi>Ouſe</hi> doth re<g ref="char:EOLhyphen"/>tard the Land Floods in their Paſſage through <hi>Lynn</hi> Harbour, and that by ſuch abatement of Rapidity the more Sand ſtays there, and if that Sluce doth ſtop the flowing Tides before they ebb in that Har<g ref="char:EOLhyphen"/>bour, then it leſſens the Indraught, and abates the Influx and Efflux, and thereby alſo cauſeth more Sand to remain. So in the firſt, if not in both theſe ways of Damage, this Harbour becomes a fourth Preſident.</p>
+            <p>Theſe Imbankments of green Salts always make adjoyning Slubbs and Water fretts to hold ſhallower Water, if not to become green Salts; ſo the cut<g ref="char:EOLhyphen"/>ting ſhallow Water off from the Indraught makes other Water that was deepeer to become ſhallow: And thus by degrees <hi>Rye</hi> indraught was imbanked, and that Harbour and Bay made ſhallow, and in the ſame mannor the indraught of any other Harbour may be imbanked, and no good Harbours left to Poſterity. Therefore I hope this may ſhew what imbankments will do, eſpecially when a Channel's Mouth is left to the old Breadth. And hereby I hope I have proved my firſt general Head.</p>
+            <p>Some Gentlemen are intituled to Salts by Pattent, and others are intituled or permitted to imbank them as Land Pearagers; but the Government always preſumes they cannot damnifie the Navigation, and ſometimes provides againſt it: Yet when Gentle<g ref="char:EOLhyphen"/>men have annext theſe Lands to their Eſtates un<g ref="char:EOLhyphen"/>der Sales and Settlements, then I believe this Ho<g ref="char:EOLhyphen"/>nourable Houſe will always be tender, and not ruin Families by drowning of theſe Lands, and to buy them out may be very expenſive; yet one of them may become neceſſary for the reſtroing of indraughts to their Ports.</p>
+            <p>Workmen are much improved in Imbankments of late Years, for they imbank near the Sea, where the Income was formerly thought too little for the Riſque and Charge: Therefore they may now do more of this Damage than was heretofore done in longer time. Wherefore if this Honourable Houſe believes the Navigations in the ſaid danger, then a Prohibition againſt any other Imbankments in the Seas Indraughts may preſerve the Navigations from growing worſe than they now are, and without Charge, and the ſame ſeems good Proof of my ſe<g ref="char:EOLhyphen"/>cond general Head.</p>
+            <p>
+               <pb facs="tcp:171242:8"/>And I believe the Bars that now hinder Navi<g ref="char:EOLhyphen"/>gation may be mended, if their ends at any time lye dry, for if the ſand which Storms lay there, can be kept from waſhing away, then the Current (by abatement in Breadth) will be more rapid and deepen ſuch Bars; and this Informant believes he can keep the Sand from waſhing off from the ends of a Bar, and that without any kind of Wood, or much Expence; which Experiment he is willing to impart at large to any Member of this Ho<g ref="char:EOLhyphen"/>nourable Houſe, or any Perſon from the Ports con<g ref="char:EOLhyphen"/>cerned, and will wait on them to that end, on a Note to be left at the Grocers over againſt the South Porch of St. <hi>Paul</hi>'s Church: But I for<g ref="char:EOLhyphen"/>bear herein to give this Honourable Houſe any Particulars on this Head: Firſt, becauſe I preſume the Charge will be thought private; and, Se<g ref="char:EOLhyphen"/>condly, becauſe I have no ample Preſidents for this Work.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
